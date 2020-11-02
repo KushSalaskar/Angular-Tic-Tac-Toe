@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-app-f2769": {
+      "hosting": {
+        "angular-proj": [
+          "tic-tac-toe-app-f2769"
+        ]
+      }
+    }
+  }
+}
